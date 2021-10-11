@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Evaristo Rodriguez 
+- 👀 I’m interested in finishing school as soon as possible
+- 🌱 I’m currently learning web developing 
+- 💞️ I’m looking to collaborate on many projects throughout the near future
+- 📫 How to reach me erodriguez8141@sdsu.edu
